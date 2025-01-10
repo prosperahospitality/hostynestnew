@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.js", "**/*.tsx", "**/*.jsx", ".next/types/**/*.ts", ".next/types/**/*.js", "_components/SiteFooter.jsx", "_components/ui/ThemeSwitch.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.js", "**/*.tsx", "**/*.jsx", ".next/types/**/*.ts", ".next/types/**/*.js", "_components/SiteFooter.jsx", "_components/ui/ThemeSwitch.js", "next.config.mjs"],
   "exclude": ["node_modules"]
 }
